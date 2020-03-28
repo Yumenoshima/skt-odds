@@ -1,0 +1,6 @@
+oauth2client
+selenium
+pillow
+pyocr
+gspread
+python-dotenv
